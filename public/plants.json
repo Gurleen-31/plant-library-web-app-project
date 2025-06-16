@@ -3,7 +3,7 @@
     "id": 1,
     "commonName": "Snake Plant",
     "scientificName": "Sansevieria trifasciata",
-    "image": "https://example.com/snake-plant.jpg",
+    "image": "/public/images/snake.png",
     "careLevel": "Easy",
     "description": "Tolerates low light and infrequent watering."
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "commonName": "Fiddle Leaf Fig",
     "scientificName": "Ficus lyrata",
-    "image": "https://example.com/fiddle-leaf.jpg",
+    "image": "/public/images/fiddle leaf.png",
     "careLevel": "Medium",
     "description": "Prefers bright, indirect light and consistent watering."
   },
@@ -19,8 +19,176 @@
     "id": 3,
     "commonName": "Maidenhair Fern",
     "scientificName": "Adiantum",
-    "image": "https://example.com/fern.jpg",
+    "image": "/public/images/maidenhair fern.png",
     "careLevel": "Hard",
     "description": "Requires high humidity and frequent watering."
+  },
+  {
+    "id": 4,
+    "commonName": "Aloe Vera",
+    "scientificName": "Aloe barbadensis miller",
+    "image": "/public/images/aloe vera.png",
+    "careLevel": "Easy",
+    "description": "Thrives in bright light and well-draining soil."
+  },
+  {
+    "id": 5,
+    "commonName": "Spider Plant",
+    "scientificName": "Chlorophytum comosum",
+    "image": "/public/images/spider plant.png",
+    "careLevel": "Easy",
+    "description": "Excellent air-purifier and easy to propagate."
+  },
+  {
+    "id": 6,
+    "commonName": "Peace Lily",
+    "scientificName": "Spathiphyllum",
+    "image": "/public/images/peace lily.png",
+    "careLevel": "Medium",
+    "description": "Prefers low to medium light and moist soil."
+  },
+  {
+    "id": 7,
+    "commonName": "Pothos",
+    "scientificName": "Epipremnum aureum",
+    "image": "/public/images/pothos.png",
+    "careLevel": "Easy",
+    "description": "Tolerates low light and drought."
+  },
+  {
+    "id": 8,
+    "commonName": "ZZ Plant",
+    "scientificName": "Zamioculcas zamiifolia",
+    "image": "/public/images/zz plant.png",
+    "careLevel": "Easy",
+    "description": "Glossy leaves, drought-tolerant and low-maintenance."
+  },
+  {
+    "id": 9,
+    "commonName": "Rubber Plant",
+    "scientificName": "Ficus elastica",
+    "image": "/public/images/rubber plant.png",
+    "careLevel": "Medium",
+    "description": "Prefers bright light and weekly watering."
+  },
+  {
+    "id": 10,
+    "commonName": "Calathea",
+    "scientificName": "Calathea roseopicta",
+    "image": "/public/images/calathea.png",
+    "careLevel": "Hard",
+    "description": "Sensitive to water quality and light changes."
+  },
+  {
+    "id": 11,
+    "commonName": "Philodendron",
+    "scientificName": "Philodendron hederaceum",
+    "image": "/public/images/philodendron.png",
+    "careLevel": "Easy",
+    "description": "Thrives in indirect sunlight and evenly moist soil."
+  },
+  {
+    "id": 12,
+    "commonName": "Dracaena",
+    "scientificName": "Dracaena marginata",
+    "image": "/public/images/draceana.png",
+    "careLevel": "Medium",
+    "description": "Prefers filtered light and minimal watering."
+  },
+  {
+    "id": 13,
+    "commonName": "Boston Fern",
+    "scientificName": "Nephrolepis exaltata",
+    "image": "/public/images/boston fern.png",
+    "careLevel": "Hard",
+    "description": "Needs high humidity and indirect sunlight."
+  },
+  {
+    "id": 14,
+    "commonName": "Jade Plant",
+    "scientificName": "Crassula ovata",
+    "image": "/public/images/jade.png",
+    "careLevel": "Easy",
+    "description": "Succulent that thrives in bright light."
+  },
+  {
+    "id": 15,
+    "commonName": "Chinese Evergreen",
+    "scientificName": "Aglaonema",
+    "image": "/public/images/chinese evergreen.png",
+    "careLevel": "Easy",
+    "description": "Great for beginners; tolerates low light."
+  },
+  {
+    "id": 16,
+    "commonName": "Bird's Nest Fern",
+    "scientificName": "Asplenium nidus",
+    "image": "/public/images/bird's nest.png",
+    "careLevel": "Medium",
+    "description": "Prefers humid environment and moderate light."
+  },
+  {
+    "id": 17,
+    "commonName": "Croton",
+    "scientificName": "Codiaeum variegatum",
+    "image": "/public/images/croton.png",
+    "careLevel": "Medium",
+    "description": "Bright colorful foliage; likes humidity and sunlight."
+  },
+  {
+    "id": 18,
+    "commonName": "English Ivy",
+    "scientificName": "Hedera helix",
+    "image": "/public/images/english ivy.png",
+    "careLevel": "Medium",
+    "description": "Ideal for hanging baskets and vertical spaces."
+  },
+  {
+    "id": 19,
+    "commonName": "Lucky Bamboo",
+    "scientificName": "Dracaena sanderiana",
+    "image": "/public/images/lucky bamboo.png",
+    "careLevel": "Easy",
+    "description": "Grows well in water or moist soil."
+  },
+  {
+    "id": 20,
+    "commonName": "Anthurium",
+    "scientificName": "Anthurium andraeanum",
+    "image": "/public/images/anthurium.png",
+    "careLevel": "Hard",
+    "description": "Loves humidity and warm temperatures."
+  },
+  {
+    "id": 21,
+    "commonName": "Orchid",
+    "scientificName": "Phalaenopsis",
+    "image": "/public/images/orchids.png",
+    "careLevel": "Hard",
+    "description": "Needs indirect sunlight and weekly watering."
+  },
+  {
+    "id": 22,
+    "commonName": "Dieffenbachia",
+    "scientificName": "Dieffenbachia seguine",
+    "image": "/public/images/dieffenbacchia.png",
+    "careLevel": "Medium",
+    "description": "Grows best in filtered light and moist soil."
+  },
+  {
+    "id": 23,
+    "commonName": "Coleus",
+    "scientificName": "Plectranthus scutellarioides",
+    "image": "/public/images/coleus.png",
+    "careLevel": "Easy",
+    "description": "Brightly colored leaves; loves partial shade."
+  },
+  {
+    "id": 24,
+    "commonName": "Prayer Plant",
+    "scientificName": "Maranta leuconeura",
+    "image": "/public/images/prayer plant.png",
+    "careLevel": "Medium",
+    "description": "Folds leaves at night; needs humidity."
   }
 ]

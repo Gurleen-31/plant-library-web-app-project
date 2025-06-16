@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "commonName": "Snake Plant",
+    "scientificName": "Sansevieria trifasciata",
+    "image": "https://example.com/snake-plant.jpg",
+    "careLevel": "Easy",
+    "description": "Tolerates low light and infrequent watering."
+  },
+  {
+    "id": 2,
+    "commonName": "Fiddle Leaf Fig",
+    "scientificName": "Ficus lyrata",
+    "image": "https://example.com/fiddle-leaf.jpg",
+    "careLevel": "Medium",
+    "description": "Prefers bright, indirect light and consistent watering."
+  },
+  {
+    "id": 3,
+    "commonName": "Maidenhair Fern",
+    "scientificName": "Adiantum",
+    "image": "https://example.com/fern.jpg",
+    "careLevel": "Hard",
+    "description": "Requires high humidity and frequent watering."
+  }
+]
